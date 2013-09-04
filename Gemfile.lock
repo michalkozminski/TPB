@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    mini_portile (0.5.1)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+    sanitize (2.0.6)
+      nokogiri (>= 1.4.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nokogiri
+  sanitize
